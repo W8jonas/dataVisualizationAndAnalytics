@@ -7,8 +7,10 @@ Créditos pelo arquivo Metricas.ipynb ao professor Kennedy Pedroso da UFJF - Uni
 ## Todo List for data_visualization
 
 - [ ] Formatting, cleaning and filtering
+- [x]       formatar banco de dados
 - [ ]       limpar banco de dados de caracteres indesejados
 - [ ] 	    filtrar dados inválidos
+- [ ] 	    transformações dos dados
 - [ ] 	    salvar mudanças
 
 - [ ] visualization
