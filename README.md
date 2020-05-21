@@ -7,19 +7,20 @@ Créditos pelo arquivo Metricas.ipynb ao professor Kennedy Pedroso da UFJF - Uni
 ## Todo List for data_visualization
 
 - [ ] Formatting, cleaning and filtering
-- [x]       formatar banco de dados
-- [ ]       limpar banco de dados de caracteres indesejados
-- [ ] 	    filtrar dados inválidos
-- [ ] 	    transformações dos dados
-- [ ] 	    salvar mudanças
+    - [ ] formas de CSVs
+    - [x] formatar banco de dados
+    - [ ] limpar banco de dados de caracteres indesejados
+    - [ ] filtrar dados inválidos
+    - [ ] transformações dos dados
+    - [ ] salvar mudanças
 
 - [ ] visualization
-- [ ] 	    preparação dos dados para matplotlib
-- [ ] 	    gráfico de barras
-- [ ] 	    gráfico de linhas 
-- [ ] 	    gráfico de boxplot
+    - [ ] preparação dos dados para matplotlib
+    - [ ] gráfico de barras
+    - [ ] gráfico de linhas 
+    - [ ] gráfico de boxplot
 
 
 - [ ] analysis
-- [ ] 	    Conclusões com os dados
+    - [ ] Conclusões com os dados
 
