@@ -24,3 +24,4 @@ Créditos pelo arquivo Metricas.ipynb ao professor Kennedy Pedroso da UFJF - Uni
 - [ ] analysis
     - [ ] Conclusões com os dados
 
+- [ ] Formatação final
