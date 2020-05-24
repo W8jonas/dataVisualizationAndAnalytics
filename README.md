@@ -7,7 +7,7 @@ Créditos pelo arquivo Metricas.ipynb ao professor Kennedy Pedroso da UFJF - Uni
 ## Todo List for data_visualization
 
 - [ ] Formatting, cleaning and filtering
-    - [ ] formas de dados CSV, JSON e outros
+    - [x] formas de dados: CSV, JSON e dados problemáticos
     - [x] formatar banco de dados
     - [ ] limpar banco de dados de caracteres indesejados
     - [ ] filtrar dados inválidos
