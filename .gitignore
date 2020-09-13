@@ -1,4 +1,5 @@
 
 # Removendo arquivos de configuração do VScode
 .ipynb_checkpoints/
+.ipynb_checkpoints
 
